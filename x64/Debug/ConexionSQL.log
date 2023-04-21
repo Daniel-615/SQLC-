@@ -1,0 +1,4 @@
+﻿  ConexionSQL.cpp
+ConexionSQL.obj : error LNK2019: símbolo externo mysql_init sin resolver al que se hace referencia en la función main
+ConexionSQL.obj : error LNK2019: símbolo externo mysql_real_connect sin resolver al que se hace referencia en la función main
+C:\Users\Ruben\Documents\Visual codes\ConexionSQL\x64\Debug\ConexionSQL.exe : fatal error LNK1120: 2 externos sin resolver
